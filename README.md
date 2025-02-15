@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/1fd8475b-b2f3-4dc2-b573-8deed7d3282b)
-# talk2pdf 🤖📄🧑‍🦰 [(Video Demo)](https://drive.google.com/file/d/1RvOhgdOeO08amTxghtTgWjwU_Py7VxUu/view?usp=sharing)
+# Talk2pdf Q/A chatbot 🤖📄🧑‍🦰 [(Video Demo)](https://drive.google.com/file/d/1RvOhgdOeO08amTxghtTgWjwU_Py7VxUu/view?usp=sharing)
 ### A chatbot that can talk to PDF built using Langchain, Pinecone, Streamlit, LLama3.2. It enables users to ask questions about the content of three PDF documents and receive relevant, context-aware answers.
 
 # Features
